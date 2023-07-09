@@ -1,4 +1,4 @@
-# HotelManagment
+# HotelManagement
 
 Title: Hotel Management System C++ Project
 
